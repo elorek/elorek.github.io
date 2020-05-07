@@ -1,4 +1,4 @@
-$(document).ready(function() {
+ $(document).ready(function() {
   const apiRoot = 'https://secure-oasis-45261.herokuapp.com/v1/task/';
   const trelloApiRoot = 'https://secure-oasis-45261.herokuapp.com/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
